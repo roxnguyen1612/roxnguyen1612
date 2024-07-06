@@ -1,5 +1,5 @@
 <h1 align="center">Hi thereee👋, I'm Roxie</h1>
-<h3 align="center">On my way to be a Software Developer/ Data Analytist</h3>
+<h3 align="center">On my way to be a Software Developer/ Data Analyst</h3>
 
 - 🌱 I’m currently studying Bachelor of Computer Science (Software Development) at Swinburne University.
 
