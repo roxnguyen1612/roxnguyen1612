@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently studying Bachelor of Computer Science (Software Development) at Swinburne University.
 
-- 👨‍💻 All of my projects are available at [https://github.com/roxnguyen1612?tab=repositories](https://github.com/roxnguyen1612?tab=repositories)
-
 - 👯 I’m looking to collaborate on Data/Software related projects.
 
 - 📫 Please reach me through **roxnguyen0416@gmail.com**
