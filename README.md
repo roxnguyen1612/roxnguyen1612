@@ -1,9 +1,9 @@
 <h1 align="center">Hi thereee👋, I'm Roxie</h1>
 <h3 align="center">On my way to be a Software Developer/ Data Analyst</h3>
 
-- 🌱 I’m currently studying Bachelor of Computer Science (Software Development) at Swinburne University.
+- 🌱 I’m currently working as Azure C# .NET backend Dev at Genuine Parts Company.
 
-- 👯 I’m looking to collaborate on Data/Software related projects.
+- 👯 I’m looking to collaborate on Data/Software side projects in my freetime.
 
 - 📫 Please reach me through **roxnguyen0416@gmail.com**
   
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- ADDS ON -->
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R-language" width="40" height="40" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40" /> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+<!--<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>-->
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" /> </a>
 </p>
 
